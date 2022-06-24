@@ -1,0 +1,35 @@
+body{
+    background: lightgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#container{
+    /*width: 70%;*/
+    width: 1100px;
+    margin: 0px auto;
+}
+
+
+header{
+    background: rgb(52, 167, 233);
+    height: 100px;
+    width: 100%;
+    margin: 20px 0px 10px 15px;
+    text-align: center;
+    line-height: 100px;
+    padding: 15px;
+}
+
+
+nav ul li{
+    float: left;
+    list-style: none;
+    margin: 10px;
+    line-height: 30px;
+}
+
+
+.clearfix{
+    clear:both;
+}
